@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YH9vw1aVz/tyR7Ioi79wzYqtZ1vtFdqFGyBU0Q5OAp2H23uSyxFkwbC/DIA1hTolLX2vvGSOYIAVbGXkZ65WsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinod\\source\\repos\\FizzBuzz\\TwistedFizzBuzzTests\\TwistedFizzBuzzTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinod\\.nuget\\packages\\mstest.testframework\\3.1.1\\mstest.testframework.3.1.1.nupkg.sha512",
+    "C:\\Users\\vinod\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

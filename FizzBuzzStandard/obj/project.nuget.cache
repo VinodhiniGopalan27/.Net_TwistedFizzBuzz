@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mtpvFJUPHPlNXsUNMzwF2qMNC5dKAp8uGCObwzLOOSzTORUKN3lI7y5SZUjGNoN7JCtucnWK732pzIpd/XXUUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinod\\source\\repos\\FizzBuzz\\FizzBuzzStandard\\FizzBuzzStandard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinod\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
